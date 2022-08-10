@@ -1,0 +1,3546 @@
+{
+    "mainInfo": {
+        "RN": "534c78771888fd7bdb72d9ecb17d0714",
+        "addToCartURL": "//cart.lazada.com.my/cart/api/add",
+        "auctionType": 1,
+        "bizCode": 0,
+        "bucketId": "v0",
+        "cate_id": "57,58,10002024,6204,6208",
+        "column": 2,
+        "currency": "RM",
+        "currencyOnRight": "false",
+        "currencySpace": "false",
+        "errorMsg": "",
+        "gridTitleLine": "2",
+        "hyperspaceInfo": "",
+        "isHideAddToCart": false,
+        "isShowFeedbackForm": "false",
+        "isShowFloatCart": false,
+        "lang": "en",
+        "layoutInfo": {
+            "listHeader": [
+                "shopBanner",
+                "campaignBanner",
+                "categoryBar",
+                "brandBar",
+                "resultTips",
+                "didYouMean",
+                "promotionfilter",
+                "superStore",
+                "navCategory",
+                "banner",
+                "hotDeal",
+                "emptyResult",
+                "recQuery"
+            ],
+            "sceneHeader": [
+                "sceneHeader"
+            ],
+            "stickyHeader": [
+                "sortBar",
+                "preposeFilter"
+            ]
+        },
+        "page": "2",
+        "pageSize": "40",
+        "pageTitle": "dell - Buy dell at Best Price in Malaysia | www.lazada.com.my",
+        "pageType": "searchList",
+        "q": "dell",
+        "reqParams": "{\"src\":\"a2o4k.10415192.search\",\"refer\":\"\",\"scenario\":\"keyword-dynamic\",\"ab_test\":\"BASE:0\"}",
+        "selectedFilters": {},
+        "showThumbs": "false",
+        "style": "wf",
+        "themes": [
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "rIVb2u",
+                "locaLang": "",
+                "style": "{width: 56, height: 28}",
+                "text": "",
+                "url": "https://gcp-img.slatic.net/lazada/id0019191-56-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "freeShipping",
+                "locaLang": "",
+                "style": "{width: 45, height: 28}",
+                "text": "",
+                "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "lazMall",
+                "locaLang": "",
+                "style": "{width: 86, height: 28}",
+                "text": "",
+                "url": "https://gw.alicdn.com/tfs/TB1r3Rqi2zO3e4jSZFxXXaP_FXa-94-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "lazGlobal",
+                "locaLang": "",
+                "style": "{width: 98, height: 28}",
+                "text": "",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1Un_6Bvb2gK0jSZK9XXaEgFXa-98-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "jUn6Fb",
+                "locaLang": "",
+                "style": "{width: 54, height: 28}",
+                "text": "",
+                "url": "//gcp-img.slatic.net/lazada/id0087268-54-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "e6BVB3",
+                "locaLang": "",
+                "style": "{width: 54, height: 28}",
+                "text": "",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1UZp2jYj1gK0jSZFuXXcrHpXa-54-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "6bUJZ3",
+                "locaLang": "",
+                "style": "{width: 56, height: 28}",
+                "text": "",
+                "url": "//laz-img-cdn.alicdn.com/tfs/TB1SY7noEH1gK0jSZSyXXXtlpXa-56-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "LazMallCampaignTile",
+                "locaLang": "",
+                "style": "{width: 49, height: 28}",
+                "text": "",
+                "url": "http://gcp-img.slatic.net/lazada/id004398-49-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "6jyMri",
+                "locaLang": "",
+                "style": "{width: 56, height: 28}",
+                "text": "",
+                "url": "//gcp-img.slatic.net/lazada/id0087487-56-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "MR3uuy",
+                "locaLang": "",
+                "style": "{width: 56, height: 28}",
+                "text": "",
+                "url": "//gcp-img.slatic.net/lazada/id0088726-56-28.png"
+            },
+            {
+                "enLang": "",
+                "isImgIcon": "1",
+                "key": "NR7z2m",
+                "locaLang": "",
+                "style": "{width: 45, height: 28}",
+                "text": "",
+                "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+            }
+        ],
+        "totalResults": "4080",
+        "trackParams": {},
+        "venture": "MY"
+    },
+    "mods": {
+        "breadcrumb": [
+            {
+                "title": "Home",
+                "url": "https://www.lazada.com.my"
+            },
+            {
+                "title": "Search Results"
+            }
+        ],
+        "filter": {
+            "bizData": "",
+            "filterItems": [
+                {
+                    "hidden": false,
+                    "locked": false,
+                    "name": "price",
+                    "options": [],
+                    "showMax": "Max",
+                    "showMin": "Min",
+                    "title": "Price",
+                    "type": "price",
+                    "unfoldRow": "2",
+                    "urlKey": "price"
+                },
+                {
+                    "hidden": false,
+                    "locked": false,
+                    "name": "rating",
+                    "title": "Rating",
+                    "type": "rating",
+                    "unfoldRow": "2",
+                    "urlKey": "rating",
+                    "value": "0"
+                }
+            ],
+            "filteredDoneText": "Product",
+            "filteredQuatity": "92376",
+            "pos": 0,
+            "tItemType": "nt_filter"
+        },
+        "linksInfo": [],
+        "listItems": [
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3022476635_MY-14946639280",
+                        "skuId": "14946639280"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3022476635_MY-14946639280",
+                "clickTrace": "query:dell;nid:3022476635;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3022476635_MY;price:1499;client:desktop;supplier_id:100088212;asc_category_id:57;item_id:3022476635;sku_id:14946639280;shop_id:102392",
+                "discount": "-6%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "ZzIRNf",
+                        "coins": false,
+                        "domClass": "ZzIRNf",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "lazMall",
+                        "coins": false,
+                        "domClass": "lazMall",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 86
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1r3Rqi2zO3e4jSZFxXXaP_FXa-94-28.png"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/e51f145399a5c8a10546f12c4fdce6b0.png",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3022476635",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-15-3510-4042sg-w10-bbeh-156-laptop-black-celeron-n4020-4gb-256gb-ssd-intel-w10-i3022476635.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 15 3510 4042SG-W10-BBEH 15.6'' Laptop Black ( Celeron N4020, 4GB, 256GB SSD, Intel, W10 )",
+                "nid": "3022476635",
+                "originalPrice": "1599.00",
+                "originalPriceShow": "RM1,599.00",
+                "price": "1499",
+                "priceShow": "RM1,499.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3022476635%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3022476635_MY%253Bprice%253A1499%253Bclient%253Adesktop%253Bsupplier_id%253A100088212%253Basc_category_id%253A57%253Bitem_id%253A3022476635%253Bsku_id%253A14946639280%253Bshop_id%253A102392",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "100088212",
+                "sellerName": "Dell Flagship Store",
+                "showFeedBack": true,
+                "sku": "3022476635_MY",
+                "skuId": "14946639280",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/e51f145399a5c8a10546f12c4fdce6b0.png",
+                        "itemUrl": "/products/dell-inspiron-15-3510-4042sg-w10-bbeh-156-laptop-black-celeron-n4020-4gb-256gb-ssd-intel-w10-i3022476635.html",
+                        "querystring": "",
+                        "sku": "3022476635_MY",
+                        "skuId": "14946639280"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3026301976_MY-14987979822",
+                        "skuId": "14987979822"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "3026301976_MY-14987979822",
+                "clickTrace": "query:dell;nid:3026301976;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3026301976_MY;price:2590.00;client:desktop;supplier_id:100118419;asc_category_id:6208;item_id:3026301976;sku_id:14987979822;shop_id:14376",
+                "discount": "-4%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/223f78adbea9e9953bbb7d35e791fb48.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3026301976",
+                "itemUrl": "//www.lazada.com.my/products/dell-precision-t5810-workstationintel-xeon-e5-1607-v332gb-ram1-tb-ssd1tb-hdd2gb-nvidia-quadro-k620win-10-pro1-yw-i3026301976.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Precision T5810 Workstation/Intel Xeon E5-1607 V3/32GB RAM/1 TB SSD/1TB HDD/2GB NVidia Quadro K620/Win 10 Pro/1 YW",
+                "nid": "3026301976",
+                "originalPrice": "2690.00",
+                "originalPriceShow": "RM2,690.00",
+                "price": "2590.00",
+                "priceShow": "RM2,590.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3026301976%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3026301976_MY%253Bprice%253A2590.00%253Bclient%253Adesktop%253Bsupplier_id%253A100118419%253Basc_category_id%253A6208%253Bitem_id%253A3026301976%253Bsku_id%253A14987979822%253Bshop_id%253A14376",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "100118419",
+                "sellerName": "eXtreme machinEs",
+                "showFeedBack": true,
+                "sku": "3026301976_MY",
+                "skuId": "14987979822",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-live-01.slatic.net/p/c35fd2ad1343c3458ee0eeae5f1eb15b.jpg",
+                        "itemUrl": "/products/dell-precision-t5810-workstationintel-xeon-e5-1607-v332gb-ram1-tb-ssd1tb-hdd2gb-nvidia-quadro-k620win-10-pro1-yw-i3026301976.html",
+                        "querystring": "",
+                        "sku": "3026301976_MY",
+                        "skuId": "14987979822"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3035278691_MY-15057753824",
+                        "skuId": "15057753824"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3035278691_MY-15057753824",
+                "clickTrace": "query:dell;nid:3035278691;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3035278691_MY;price:5055.00;client:desktop;supplier_id:39833;asc_category_id:57;item_id:3035278691;sku_id:15057753824;shop_id:48846",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/79c2f9e20b542eaf14ecff3515dacb36.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3035278691",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-7430-14fhd-i5-1235u-8gb-256gb-ssd-w11-3yw-l7430-i5358g-256-w11-i3035278691.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL Latitude 7430 14\"FHD i5-1235U 8GB 256GB SSD W11 3YW - ( L7430-i5358G-256-W11 )",
+                "nid": "3035278691",
+                "price": "5055.00",
+                "priceShow": "RM5,055.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3035278691%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3035278691_MY%253Bprice%253A5055.00%253Bclient%253Adesktop%253Bsupplier_id%253A39833%253Basc_category_id%253A57%253Bitem_id%253A3035278691%253Bsku_id%253A15057753824%253Bshop_id%253A48846",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "39833",
+                "sellerName": "COMPUTAAS SDN BHD.",
+                "showFeedBack": true,
+                "sku": "3035278691_MY",
+                "skuId": "15057753824",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/79c2f9e20b542eaf14ecff3515dacb36.jpg",
+                        "itemUrl": "/products/dell-latitude-7430-14fhd-i5-1235u-8gb-256gb-ssd-w11-3yw-l7430-i5358g-256-w11-i3035278691.html",
+                        "querystring": "",
+                        "sku": "3035278691_MY",
+                        "skuId": "15057753824"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3005428772_MY-14820060606",
+                        "skuId": "14820060606"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "3005428772_MY-14820060606",
+                "clickTrace": "query:dell;nid:3005428772;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3005428772_MY;price:4299.00;client:desktop;supplier_id:587;asc_category_id:6208;item_id:3005428772;sku_id:14820060606;shop_id:1694",
+                "discount": "-4%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/9c917653fd07816542465b8f8a825b3b.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3005428772",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-7000-sff-small-form-factor-business-desktop-pc-i7-12700-490ghz1tb-1tb256gb-512gb8gb-16gbw11p-i3005428772.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Optiplex 7000 SFF Small Form Factor Business Desktop PC (i7-12700 4.90Ghz,1TB / 1TB+256GB / 512GB,8GB / 16GB,W11P)",
+                "nid": "3005428772",
+                "originalPrice": "4499.00",
+                "originalPriceShow": "RM4,499.00",
+                "price": "4299.00",
+                "priceShow": "RM4,299.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3005428772%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3005428772_MY%253Bprice%253A4299.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A6208%253Bitem_id%253A3005428772%253Bsku_id%253A14820060606%253Bshop_id%253A1694",
+                "ratingScore": "5.0",
+                "restrictedAge": 0,
+                "review": "5",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3005428772_MY",
+                "skuId": "14820060606",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/9c917653fd07816542465b8f8a825b3b.jpg.jpg",
+                        "itemUrl": "/products/dell-optiplex-7000-sff-small-form-factor-business-desktop-pc-i7-12700-490ghz1tb-1tb256gb-512gb8gb-16gbw11p-i3005428772.html",
+                        "querystring": "",
+                        "sku": "3005428772_MY",
+                        "skuId": "14820060606"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/1e8940b8bdf6deda432331fd2bb40833.jpg.jpg",
+                        "itemUrl": "/products/dell-optiplex-7000-sff-small-form-factor-business-desktop-pc-i7-12700-490ghz1tb-1tb256gb-512gb8gb-16gbw11p-i3005428772.html",
+                        "querystring": "",
+                        "sku": "3005428772_MY",
+                        "skuId": "14820060608"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/f97894bda7e41103630eb2ed3bcfdcfc.jpg.jpg",
+                        "itemUrl": "/products/dell-optiplex-7000-sff-small-form-factor-business-desktop-pc-i7-12700-490ghz1tb-1tb256gb-512gb8gb-16gbw11p-i3005428772.html",
+                        "querystring": "",
+                        "sku": "3005428772_MY",
+                        "skuId": "14820060607"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "1361258971_MY-8053644757",
+                        "skuId": "8053644757"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "1361258971_MY-8053644757",
+                "clickTrace": "query:dell;nid:1361258971;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:1361258971_MY;price:269.00;client:desktop;supplier_id:1000193238;asc_category_id:6208;item_id:1361258971;sku_id:8053644757;shop_id:394188",
+                "discount": "-46%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "1361258971",
+                "itemUrl": "//www.lazada.com.my/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                "location": "Johor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "(REFURBISHED) Core 2 Duo KOMPUTER DELL FULL SET / DELL C2D TOWER /17''-22'' LCD MONITOR/2GB-4GB DDR2 RAM/80GB HDD/120GB SSD",
+                "nid": "1361258971",
+                "originalPrice": "499.00",
+                "originalPriceShow": "RM499.00",
+                "price": "269.00",
+                "priceShow": "RM269.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A1361258971%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A1361258971_MY%253Bprice%253A269.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000193238%253Basc_category_id%253A6208%253Bitem_id%253A1361258971%253Bsku_id%253A8053644757%253Bshop_id%253A394188",
+                "ratingScore": "4.88",
+                "restrictedAge": 0,
+                "review": "25",
+                "sellerId": "1000193238",
+                "sellerName": "ELINK NOTEBOOK CENTRE",
+                "showFeedBack": true,
+                "sku": "1361258971_MY",
+                "skuId": "8053644757",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644757"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644758"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644759"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644760"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644761"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/0f47d15e97af1176e67bf8928498da3c.jpg",
+                        "itemUrl": "/products/refurbished-core-2-duo-komputer-dell-full-set-dell-c2d-tower-17-22-lcd-monitor2gb-4gb-ddr2-ram80gb-hdd120gb-ssd-i1361258971.html",
+                        "querystring": "",
+                        "sku": "1361258971_MY",
+                        "skuId": "8053644762"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3011185889_MY-14862584496",
+                        "skuId": "14862584496"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3011185889_MY-14862584496",
+                "clickTrace": "query:dell;nid:3011185889;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3011185889_MY;price:8299.00;client:desktop;supplier_id:587;asc_category_id:57;item_id:3011185889;sku_id:14862584496;shop_id:1694",
+                "discount": "-8%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/c638d51a097a94bb216c18188bbb57d4.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3011185889",
+                "itemUrl": "//www.lazada.com.my/products/dell-xps-15-9520-laptop-i7-12700h-47ghz512gb-ssd16gbrtx3050-4gb156fhdw11hs21-i3011185889.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell XPS 15 (9520) Laptop (i7-12700H 4.7Ghz,512GB SSD,16GB,RTX3050-4GB,15.6\"FHD+,W11,HS21)",
+                "nid": "3011185889",
+                "originalPrice": "8999.00",
+                "originalPriceShow": "RM8,999.00",
+                "price": "8299.00",
+                "priceShow": "RM8,299.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3011185889%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3011185889_MY%253Bprice%253A8299.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A57%253Bitem_id%253A3011185889%253Bsku_id%253A14862584496%253Bshop_id%253A1694",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3011185889_MY",
+                "skuId": "14862584496",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/c638d51a097a94bb216c18188bbb57d4.jpg.jpg",
+                        "itemUrl": "/products/dell-xps-15-9520-laptop-i7-12700h-47ghz512gb-ssd16gbrtx3050-4gb156fhdw11hs21-i3011185889.html",
+                        "querystring": "",
+                        "sku": "3011185889_MY",
+                        "skuId": "14862584496"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3038426782_MY-15085736694",
+                        "skuId": "15085736694"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6204
+                ],
+                "cheapest_sku": "3038426782_MY-15085736694",
+                "clickTrace": "query:dell;nid:3038426782;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3038426782_MY;price:1099.00;client:desktop;supplier_id:100160791;asc_category_id:6204;item_id:3038426782;sku_id:15085736694;shop_id:161098",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/dad7a393ba9d9a7138b9cfdc23a6ea35.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3038426782",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-9020-23-inch-all-in-one-desktop-intel-core-i5-8gb-ram-128gb-ssd-fhd-i3038426782.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell OptiPlex 9020 23-inch All- In-One Desktop - Intel Core i5 - 8GB Ram - 128GB SSD - FHD",
+                "nid": "3038426782",
+                "price": "1099.00",
+                "priceShow": "RM1,099.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3038426782%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3038426782_MY%253Bprice%253A1099.00%253Bclient%253Adesktop%253Bsupplier_id%253A100160791%253Basc_category_id%253A6204%253Bitem_id%253A3038426782%253Bsku_id%253A15085736694%253Bshop_id%253A161098",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "100160791",
+                "sellerName": "KSS WORLD TRADING SDN BHD .",
+                "showFeedBack": true,
+                "sku": "3038426782_MY",
+                "skuId": "15085736694",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/dad7a393ba9d9a7138b9cfdc23a6ea35.jpg",
+                        "itemUrl": "/products/dell-optiplex-9020-23-inch-all-in-one-desktop-intel-core-i5-8gb-ram-128gb-ssd-fhd-i3038426782.html",
+                        "querystring": "",
+                        "sku": "3038426782_MY",
+                        "skuId": "15085736694"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "1562060501_MY-10333202839",
+                        "skuId": "10333202839"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "1562060501_MY-10333202839",
+                "clickTrace": "query:dell;nid:1562060501;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:1562060501_MY;price:1749;client:desktop;supplier_id:100071605;asc_category_id:57;item_id:1562060501;sku_id:10333202839;shop_id:95585",
+                "discount": "-3%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "ZzIRNf",
+                        "coins": false,
+                        "domClass": "ZzIRNf",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "1562060501",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL INSPIRON 15 3515 (ATHLON 3050U, 4GB, 256GB SSD, 15.6\" HD, BLACK-W10, H&S)",
+                "nid": "1562060501",
+                "originalPrice": "1799.00",
+                "originalPriceShow": "RM1,799.00",
+                "price": "1749",
+                "priceShow": "RM1,749.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A1562060501%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A1562060501_MY%253Bprice%253A1749%253Bclient%253Adesktop%253Bsupplier_id%253A100071605%253Basc_category_id%253A57%253Bitem_id%253A1562060501%253Bsku_id%253A10333202839%253Bshop_id%253A95585",
+                "ratingScore": "4.859375",
+                "restrictedAge": 0,
+                "review": "64",
+                "sellerId": "100071605",
+                "sellerName": "Clicknet Store",
+                "showFeedBack": true,
+                "sku": "1562060501_MY",
+                "skuId": "10333202839",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202839"
+                    },
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202841"
+                    },
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202840"
+                    },
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202843"
+                    },
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202842"
+                    },
+                    {
+                        "image": "https://my-test-11.slatic.net/p/f979e06cd8e66c8b69462d62a2bda21d.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3515-athlon-3050u-4gb-256gb-ssd-156-hd-black-w10-hs-i1562060501.html",
+                        "querystring": "",
+                        "sku": "1562060501_MY",
+                        "skuId": "10333202844"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3035255483_MY-15057440190",
+                        "skuId": "15057440190"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3035255483_MY-15057440190",
+                "clickTrace": "query:dell;nid:3035255483;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3035255483_MY;price:5532.00;client:desktop;supplier_id:39833;asc_category_id:57;item_id:3035255483;sku_id:15057440190;shop_id:48846",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/0d8c839db4e85a5aa8d0db5e87150a5c.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3035255483",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-5330-133fhd-i7-1265u-16gb-512gb-ssd-w11-3yw-l5330-i76516g-512-w11-i3035255483.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL Latitude 5330 13.3\"FHD i7-1265U 16GB 512GB SSD W11 3YW - ( L5330-i76516G-512-W11 )",
+                "nid": "3035255483",
+                "price": "5532.00",
+                "priceShow": "RM5,532.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3035255483%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3035255483_MY%253Bprice%253A5532.00%253Bclient%253Adesktop%253Bsupplier_id%253A39833%253Basc_category_id%253A57%253Bitem_id%253A3035255483%253Bsku_id%253A15057440190%253Bshop_id%253A48846",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "39833",
+                "sellerName": "COMPUTAAS SDN BHD.",
+                "showFeedBack": true,
+                "sku": "3035255483_MY",
+                "skuId": "15057440190",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/0d8c839db4e85a5aa8d0db5e87150a5c.jpg",
+                        "itemUrl": "/products/dell-latitude-5330-133fhd-i7-1265u-16gb-512gb-ssd-w11-3yw-l5330-i76516g-512-w11-i3035255483.html",
+                        "querystring": "",
+                        "sku": "3035255483_MY",
+                        "skuId": "15057440190"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3038543004_MY-15090510370",
+                        "skuId": "15090510370"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3038543004_MY-15090510370",
+                "clickTrace": "query:dell;nid:3038543004;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3038543004_MY;price:794.00;client:desktop;supplier_id:1000407150;asc_category_id:57;item_id:3038543004;sku_id:15090510370;shop_id:605500",
+                "discount": "-12%",
+                "icons": [
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/60f69ec50454dec7f498dbc33dd5b93b.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3038543004",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-e6230-laptop-intel-core-i5-3rd-gen-4gb-ddr3-ram-250gb-hdd-wifi-webcam-windows-10-125-inch-d-i3038543004.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Latitude E6230 Laptop  Intel Core i5-3rd Gen | 4GB DDR3 Ram | 250GB HDD | WiFi | Webcam | Windows 10 | 12.5\" inch D",
+                "nid": "3038543004",
+                "originalPrice": "899.00",
+                "originalPriceShow": "RM899.00",
+                "price": "794.00",
+                "priceShow": "RM794.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3038543004%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3038543004_MY%253Bprice%253A794.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000407150%253Basc_category_id%253A57%253Bitem_id%253A3038543004%253Bsku_id%253A15090510370%253Bshop_id%253A605500",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000407150",
+                "sellerName": "Global Gamerz",
+                "showFeedBack": true,
+                "sku": "3038543004_MY",
+                "skuId": "15090510370",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/60f69ec50454dec7f498dbc33dd5b93b.jpg",
+                        "itemUrl": "/products/dell-latitude-e6230-laptop-intel-core-i5-3rd-gen-4gb-ddr3-ram-250gb-hdd-wifi-webcam-windows-10-125-inch-d-i3038543004.html",
+                        "querystring": "",
+                        "sku": "3038543004_MY",
+                        "skuId": "15090510370"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2207975002_MY-9305143544",
+                        "skuId": "9305143544"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "2207975002_MY-9305143544",
+                "clickTrace": "query:dell;nid:2207975002;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2207975002_MY;price:1499.00;client:desktop;supplier_id:34710;asc_category_id:57;item_id:2207975002;sku_id:9305143544;shop_id:4847",
+                "discount": "-35%",
+                "icons": [
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/b29a570f037a3e59fe131e820c60a678.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2207975002",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-5480-professional-edition-intel-core-i5-6300u-16gb-ddr4-ram-512gb-ssd-storage-window10-pro-genuine-14-inch-hdmi-usb-type-c-laptop-3-years-warranty-i2207975002.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL LATITUDE 5480 PROFESSIONAL EDITION - INTEL CORE I5-6300U / 16GB DDR4 RAM / 512GB SSD STORAGE / WINDOW10 PRO GENUINE / 14 INCH / HDMI / USB TYPE-C / LAPTOP / 3 YEARS WARRANTY",
+                "nid": "2207975002",
+                "originalPrice": "2299.00",
+                "originalPriceShow": "RM2,299.00",
+                "price": "1499.00",
+                "priceShow": "RM1,499.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A2207975002%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2207975002_MY%253Bprice%253A1499.00%253Bclient%253Adesktop%253Bsupplier_id%253A34710%253Basc_category_id%253A57%253Bitem_id%253A2207975002%253Bsku_id%253A9305143544%253Bshop_id%253A4847",
+                "ratingScore": "4.6",
+                "restrictedAge": 0,
+                "review": "10",
+                "sellerId": "34710",
+                "sellerName": "COMPUTRON IT MARKET",
+                "showFeedBack": true,
+                "sku": "2207975002_MY",
+                "skuId": "9305143544",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/b29a570f037a3e59fe131e820c60a678.jpg",
+                        "itemUrl": "/products/dell-latitude-5480-professional-edition-intel-core-i5-6300u-16gb-ddr4-ram-512gb-ssd-storage-window10-pro-genuine-14-inch-hdmi-usb-type-c-laptop-3-years-warranty-i2207975002.html",
+                        "querystring": "",
+                        "sku": "2207975002_MY",
+                        "skuId": "9305143544"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3044820191_MY-15130639712",
+                        "skuId": "15130639712"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "3044820191_MY-15130639712",
+                "clickTrace": "query:dell;nid:3044820191;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3044820191_MY;price:299.00;client:desktop;supplier_id:300159405271;asc_category_id:6208;item_id:3044820191;sku_id:15130639712;shop_id:2147323",
+                "discount": "-25%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/64f1f1e5d071d53b2fc658825ab70fc3.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3044820191",
+                "itemUrl": "//www.lazada.com.my/products/refurbished-bajet-pc-dell-wyse-5070-thin-client-intel-celeron-4gb-ddr4-ram-32gb-ssd-win-10-wifi-3-months-warranty-i3044820191.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "(Refurbished) Bajet PC Dell Wyse 5070 Thin Client / Intel Celeron / 4GB DDR4 Ram / 32GB SSD / Win 10 / WiFi / 3 Months Warranty",
+                "nid": "3044820191",
+                "originalPrice": "399.00",
+                "originalPriceShow": "RM399.00",
+                "price": "299.00",
+                "priceShow": "RM299.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3044820191%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3044820191_MY%253Bprice%253A299.00%253Bclient%253Adesktop%253Bsupplier_id%253A300159405271%253Basc_category_id%253A6208%253Bitem_id%253A3044820191%253Bsku_id%253A15130639712%253Bshop_id%253A2147323",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300159405271",
+                "sellerName": "Bajet Laptop",
+                "showFeedBack": true,
+                "sku": "3044820191_MY",
+                "skuId": "15130639712",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/64f1f1e5d071d53b2fc658825ab70fc3.jpg",
+                        "itemUrl": "/products/refurbished-bajet-pc-dell-wyse-5070-thin-client-intel-celeron-4gb-ddr4-ram-32gb-ssd-win-10-wifi-3-months-warranty-i3044820191.html",
+                        "querystring": "",
+                        "sku": "3044820191_MY",
+                        "skuId": "15130639712"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3021418873_MY-14934205579",
+                        "skuId": "14934205579"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3021418873_MY-14934205579",
+                "clickTrace": "query:dell;nid:3021418873;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3021418873_MY;price:1190.00;client:desktop;supplier_id:300159018034;asc_category_id:57;item_id:3021418873;sku_id:14934205579;shop_id:2129891",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/a406dedf8b771bb25e51647f96ef11c6.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3021418873",
+                "itemUrl": "//www.lazada.com.my/products/full-hd-i7-4th-30-ghz-dell-latitude-e6540-full-hd-155inch-screen-8gb-ram-ssd-128gb-intel-core-i7-4th-gen-i3021418873.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "FULL HD i7-4th 3.0 Ghz Dell Latitude E6540 ( Full HD 15.5inch Screen ) 8GB Ram / SSD 128GB / Intel Core i7-4th Gen",
+                "nid": "3021418873",
+                "price": "1190.00",
+                "priceShow": "RM1,190.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3021418873%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3021418873_MY%253Bprice%253A1190.00%253Bclient%253Adesktop%253Bsupplier_id%253A300159018034%253Basc_category_id%253A57%253Bitem_id%253A3021418873%253Bsku_id%253A14934205579%253Bshop_id%253A2129891",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300159018034",
+                "sellerName": "Second Budget PC",
+                "showFeedBack": true,
+                "sku": "3021418873_MY",
+                "skuId": "14934205579",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/a406dedf8b771bb25e51647f96ef11c6.jpg",
+                        "itemUrl": "/products/full-hd-i7-4th-30-ghz-dell-latitude-e6540-full-hd-155inch-screen-8gb-ram-ssd-128gb-intel-core-i7-4th-gen-i3021418873.html",
+                        "querystring": "",
+                        "sku": "3021418873_MY",
+                        "skuId": "14934205579"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2233571043_MY-9462826471",
+                        "skuId": "9462826471"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6204
+                ],
+                "cheapest_sku": "2233571043_MY-9462826471",
+                "clickTrace": "query:dell;nid:2233571043;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2233571043_MY;price:999.00;client:desktop;supplier_id:1000038043;asc_category_id:6204;item_id:2233571043;sku_id:9462826471;shop_id:240552",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/44a58ec0d07cfa3d1b09bb1d4e471bb0.png",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2233571043",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-7010-sff-full-set-core-i5-up-to-16gb-ram-and-512gb-ssd-22inch-full-hd-monitor-windows-10-pro-i2233571043.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL OPTIPLEX 7010 SFF - FULL SET [CORE I5 / UP TO 16GB RAM AND 512GB SSD] 22''INCH FULL HD MONITOR / WINDOWS 10 PRO",
+                "nid": "2233571043",
+                "price": "999.00",
+                "priceShow": "RM999.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A2233571043%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2233571043_MY%253Bprice%253A999.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000038043%253Basc_category_id%253A6204%253Bitem_id%253A2233571043%253Bsku_id%253A9462826471%253Bshop_id%253A240552",
+                "ratingScore": "4.875",
+                "restrictedAge": 0,
+                "review": "16",
+                "sellerId": "1000038043",
+                "sellerName": "mylaptops",
+                "showFeedBack": true,
+                "sku": "2233571043_MY",
+                "skuId": "9462826471",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/44a58ec0d07cfa3d1b09bb1d4e471bb0.png",
+                        "itemUrl": "/products/dell-optiplex-7010-sff-full-set-core-i5-up-to-16gb-ram-and-512gb-ssd-22inch-full-hd-monitor-windows-10-pro-i2233571043.html",
+                        "querystring": "",
+                        "sku": "2233571043_MY",
+                        "skuId": "9462826471"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "193251667_MY-10618146334",
+                        "skuId": "10618146334"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    1902,
+                    10001935,
+                    10001966,
+                    10002024
+                ],
+                "cheapest_sku": "193251667_MY-10618146334",
+                "clickTrace": "query:dell;nid:121976716;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:193251667_MY;price:39.52;client:desktop;supplier_id:100071622;asc_category_id:10002024;item_id:193251667;sku_id:10618146334;shop_id:7679",
+                "discount": "-40%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "ZzIRNf",
+                        "coins": false,
+                        "domClass": "ZzIRNf",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/95270778d9a8bef51c70d261f20b22a1.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "193251667",
+                "itemUrl": "//www.lazada.com.my/products/dell-essential-notebook-backpack-limited-red-accents-bag-i193251667.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Essential Notebook Backpack Limited Red Accents Bag",
+                "nid": "121976716",
+                "originalPrice": "65.98",
+                "originalPriceShow": "RM65.98",
+                "price": "39.52",
+                "priceShow": "RM39.52",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A121976716%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A193251667_MY%253Bprice%253A39.52%253Bclient%253Adesktop%253Bsupplier_id%253A100071622%253Basc_category_id%253A10002024%253Bitem_id%253A193251667%253Bsku_id%253A10618146334%253Bshop_id%253A7679",
+                "ratingScore": "4.803100775193799",
+                "restrictedAge": 0,
+                "review": "645",
+                "sellerId": "100071622",
+                "sellerName": "Bex Solutions",
+                "showFeedBack": true,
+                "sku": "193251667_MY",
+                "skuId": "10618146334",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/4ab0d1a1ed01c1be8aab016da79f0caf.jpg",
+                        "itemUrl": "/products/dell-essential-notebook-backpack-limited-red-accents-bag-i193251667.html",
+                        "querystring": "",
+                        "sku": "193251667_MY",
+                        "skuId": "10618146334"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/2a7f016d0d6a99613795a46b7de153bc.jpg",
+                        "itemUrl": "/products/dell-essential-notebook-backpack-limited-red-accents-bag-i193251667.html",
+                        "querystring": "",
+                        "sku": "193251667_MY",
+                        "skuId": "10618146333"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3053819054_MY-15189313312",
+                        "skuId": "15189313312"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3053819054_MY-15189313312",
+                "clickTrace": "query:dell;nid:3053819054;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3053819054_MY;price:270.00;client:desktop;supplier_id:1000066254;asc_category_id:57;item_id:3053819054;sku_id:15189313312;shop_id:268512",
+                "discount": "-27%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/7fce770c3f66c1976f6be5b7cfd17595.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3053819054",
+                "itemUrl": "//www.lazada.com.my/products/laptop-dell-inspiron-640m-14inch-intel-core2-duo-167ghz-2gb-ram-160-gb-hdd-used-i3053819054.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Laptop DELL Inspiron 640m 14inch (Intel\u00ae Core2\u2122 Duo 1.67GHz / 2GB RAM & 160 GB HDD) used",
+                "nid": "3053819054",
+                "originalPrice": "370.00",
+                "originalPriceShow": "RM370.00",
+                "price": "270.00",
+                "priceShow": "RM270.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3053819054%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3053819054_MY%253Bprice%253A270.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000066254%253Basc_category_id%253A57%253Bitem_id%253A3053819054%253Bsku_id%253A15189313312%253Bshop_id%253A268512",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000066254",
+                "sellerName": "TK OnlineShop",
+                "showFeedBack": true,
+                "sku": "3053819054_MY",
+                "skuId": "15189313312",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/7fce770c3f66c1976f6be5b7cfd17595.jpg",
+                        "itemUrl": "/products/laptop-dell-inspiron-640m-14inch-intel-core2-duo-167ghz-2gb-ram-160-gb-hdd-used-i3053819054.html",
+                        "querystring": "",
+                        "sku": "3053819054_MY",
+                        "skuId": "15189313312"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "125993788_MY-11140974924",
+                        "skuId": "11140974924"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6204
+                ],
+                "cheapest_sku": "125993788_MY-11140974924",
+                "clickTrace": "query:dell;nid:50922762;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:125993788_MY;price:499.00;client:desktop;supplier_id:11852;asc_category_id:6204;item_id:125993788;sku_id:11140974924;shop_id:24860",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/0cd1c8e677af54991365beec972a8987.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "125993788",
+                "itemUrl": "//www.lazada.com.my/products/dell-i7-4th-gen-i5-i3-intel-core-optiplex-sff-desktop-4gb-or-8gb-ddr3-ram-500gb-hdd-win-10-pro-refurbished-790-7010-9010-3010-3020-9020-7020-i125993788.html",
+                "location": "Kedah",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell i7 4th Gen i5 i3 Intel Core Optiplex SFF Desktop 4GB or 8GB DDR3 RAM / 500GB HDD / Win 10 Pro ( Refurbished ) 790 7010 9010 3010 3020 9020 7020",
+                "nid": "50922762",
+                "price": "499.00",
+                "priceShow": "RM499.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A50922762%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A125993788_MY%253Bprice%253A499.00%253Bclient%253Adesktop%253Bsupplier_id%253A11852%253Basc_category_id%253A6204%253Bitem_id%253A125993788%253Bsku_id%253A11140974924%253Bshop_id%253A24860",
+                "ratingScore": "4.55",
+                "restrictedAge": 0,
+                "review": "40",
+                "sellerId": "11852",
+                "sellerName": "INFOTECH",
+                "showFeedBack": true,
+                "sku": "125993788_MY",
+                "skuId": "11140974924",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/0cd1c8e677af54991365beec972a8987.jpg",
+                        "itemUrl": "/products/dell-i7-4th-gen-i5-i3-intel-core-optiplex-sff-desktop-4gb-or-8gb-ddr3-ram-500gb-hdd-win-10-pro-refurbished-790-7010-9010-3010-3020-9020-7020-i125993788.html",
+                        "querystring": "",
+                        "sku": "125993788_MY",
+                        "skuId": "11140974924"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3032349382_MY-15037066001",
+                        "skuId": "15037066001"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3032349382_MY-15037066001",
+                "clickTrace": "query:dell;nid:3032349382;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3032349382_MY;price:630.00;client:desktop;supplier_id:100167862;asc_category_id:57;item_id:3032349382;sku_id:15037066001;shop_id:168148",
+                "discount": "-16%",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/e6777f1171667dfd7dae6b8f1e43c90b.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3032349382",
+                "itemUrl": "//www.lazada.com.my/products/dell-venue-i5-11-pro-4th-gen-i3032349382.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL VENUE I5 11 PRO 4TH GEN",
+                "nid": "3032349382",
+                "originalPrice": "750.00",
+                "originalPriceShow": "RM750.00",
+                "price": "630.00",
+                "priceShow": "RM630.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A3032349382%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3032349382_MY%253Bprice%253A630.00%253Bclient%253Adesktop%253Bsupplier_id%253A100167862%253Basc_category_id%253A57%253Bitem_id%253A3032349382%253Bsku_id%253A15037066001%253Bshop_id%253A168148",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "100167862",
+                "sellerName": "Adam Jee Infotech",
+                "showFeedBack": true,
+                "sku": "3032349382_MY",
+                "skuId": "15037066001",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/e6777f1171667dfd7dae6b8f1e43c90b.jpg",
+                        "itemUrl": "/products/dell-venue-i5-11-pro-4th-gen-i3032349382.html",
+                        "querystring": "",
+                        "sku": "3032349382_MY",
+                        "skuId": "15037066001"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3005452570_MY-14819950868",
+                        "skuId": "14819950868"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6204
+                ],
+                "cheapest_sku": "3005452570_MY-14819950868",
+                "clickTrace": "query:dell;nid:3005452570;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3005452570_MY;price:4499.00;client:desktop;supplier_id:587;asc_category_id:6204;item_id:3005452570;sku_id:14819950868;shop_id:1694",
+                "discount": "-2%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/89285f19bc27f760ec1373531ddcbeb6.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3005452570",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-27-7710-aio-desktop-i5-1235u-440ghz512gb-ssd8gb27fhdw11-i3005452570.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 27 7710 AIO Desktop (i5-1235U 4.40Ghz,512GB SSD,8GB,27\"FHD,W11)",
+                "nid": "3005452570",
+                "originalPrice": "4599.00",
+                "originalPriceShow": "RM4,599.00",
+                "price": "4499.00",
+                "priceShow": "RM4,499.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3005452570%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3005452570_MY%253Bprice%253A4499.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A6204%253Bitem_id%253A3005452570%253Bsku_id%253A14819950868%253Bshop_id%253A1694",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3005452570_MY",
+                "skuId": "14819950868",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/89285f19bc27f760ec1373531ddcbeb6.jpg.jpg",
+                        "itemUrl": "/products/dell-inspiron-27-7710-aio-desktop-i5-1235u-440ghz512gb-ssd8gb27fhdw11-i3005452570.html",
+                        "querystring": "",
+                        "sku": "3005452570_MY",
+                        "skuId": "14819950868"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3011124377_MY-14862004491",
+                        "skuId": "14862004491"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3011124377_MY-14862004491",
+                "clickTrace": "query:dell;nid:3011124377;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3011124377_MY;price:611.52;client:desktop;supplier_id:300146352019;asc_category_id:57;item_id:3011124377;sku_id:14862004491;shop_id:1407494",
+                "discount": "-56%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "ZzIRNf",
+                        "coins": false,
+                        "domClass": "ZzIRNf",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/6688a2bcdcb5a444be0a865b529b54ca.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3011124377",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-e5530-intel-core-i5-ivy-bridge-processor-8gb-ddr3-ram-512ggb-ssd-156-inch-window-11-pro-dvd-rw-156-inch-100-warranty-policy-i3011124377.html",
+                "location": "Perak",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL LATITUDE E5530 - INTEL CORE I5 IVY BRIDGE PROCESSOR / 8GB DDR3 RAM / 512GGB SSD / 15.6 INCH / WINDOW 11 PRO / DVD-RW / 15.6 INCH / 100% WARRANTY POLICY",
+                "nid": "3011124377",
+                "originalPrice": "1399.00",
+                "originalPriceShow": "RM1,399.00",
+                "price": "611.52",
+                "priceShow": "RM611.52",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3011124377%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3011124377_MY%253Bprice%253A611.52%253Bclient%253Adesktop%253Bsupplier_id%253A300146352019%253Basc_category_id%253A57%253Bitem_id%253A3011124377%253Bsku_id%253A14862004491%253Bshop_id%253A1407494",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300146352019",
+                "sellerName": "PC HUB MALAYSIA",
+                "showFeedBack": true,
+                "sku": "3011124377_MY",
+                "skuId": "14862004491",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/6688a2bcdcb5a444be0a865b529b54ca.jpg",
+                        "itemUrl": "/products/dell-latitude-e5530-intel-core-i5-ivy-bridge-processor-8gb-ddr3-ram-512ggb-ssd-156-inch-window-11-pro-dvd-rw-156-inch-100-warranty-policy-i3011124377.html",
+                        "querystring": "",
+                        "sku": "3011124377_MY",
+                        "skuId": "14862004491"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "461278557_MY-10786033836",
+                        "skuId": "10786033836"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "461278557_MY-10786033836",
+                "clickTrace": "query:dell;nid:461278557;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:461278557_MY;price:1694.00;client:desktop;supplier_id:1000038043;asc_category_id:57;item_id:461278557;sku_id:10786033836;shop_id:240552",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/ecdbaa1894ff0c9a89876b94b137fa0c.png",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "461278557",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-7490-ultrabook-up-to-32gb-ddr4-ram-1tb-ssd-fhd-ips-display-windows-10-pro-1-year-warranty-i461278557.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL LATITUDE 7490 ULTRABOOK [UP TO 32GB DDR4 RAM / 1TB SSD] FHD IPS DISPLAY / WINDOWS 10 PRO / 1 YEAR WARRANTY",
+                "nid": "461278557",
+                "price": "1694.00",
+                "priceShow": "RM1,694.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A461278557%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A461278557_MY%253Bprice%253A1694.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000038043%253Basc_category_id%253A57%253Bitem_id%253A461278557%253Bsku_id%253A10786033836%253Bshop_id%253A240552",
+                "ratingScore": "5.0",
+                "restrictedAge": 0,
+                "review": "4",
+                "sellerId": "1000038043",
+                "sellerName": "mylaptops",
+                "showFeedBack": true,
+                "sku": "461278557_MY",
+                "skuId": "10786033836",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/ecdbaa1894ff0c9a89876b94b137fa0c.png",
+                        "itemUrl": "/products/dell-latitude-7490-ultrabook-up-to-32gb-ddr4-ram-1tb-ssd-fhd-ips-display-windows-10-pro-1-year-warranty-i461278557.html",
+                        "querystring": "",
+                        "sku": "461278557_MY",
+                        "skuId": "10786033836"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2361741638_MY-10133049145",
+                        "skuId": "10133049145"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "2361741638_MY-10133049145",
+                "clickTrace": "query:dell;nid:2361741638;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2361741638_MY;price:2999.00;client:desktop;supplier_id:300153663243;asc_category_id:57;item_id:2361741638;sku_id:10133049145;shop_id:1824202",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/281d9471fc6c1f91fcb984767a11e55c.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2361741638",
+                "itemUrl": "//www.lazada.com.my/products/promo-dell-latitude-5410-14-10th-gen-work-office-study-business-laptop-3-years-warranty-i2361741638.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "PROMO! DELL LATITUDE 5410 14\" 10TH GEN WORK OFFICE STUDY BUSINESS LAPTOP [3 YEARS WARRANTY]",
+                "nid": "2361741638",
+                "price": "2999.00",
+                "priceShow": "RM2,999.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A2361741638%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2361741638_MY%253Bprice%253A2999.00%253Bclient%253Adesktop%253Bsupplier_id%253A300153663243%253Basc_category_id%253A57%253Bitem_id%253A2361741638%253Bsku_id%253A10133049145%253Bshop_id%253A1824202",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300153663243",
+                "sellerName": "The Gadget Shop Malaysia",
+                "showFeedBack": true,
+                "sku": "2361741638_MY",
+                "skuId": "10133049145",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/281d9471fc6c1f91fcb984767a11e55c.jpg",
+                        "itemUrl": "/products/promo-dell-latitude-5410-14-10th-gen-work-office-study-business-laptop-3-years-warranty-i2361741638.html",
+                        "querystring": "",
+                        "sku": "2361741638_MY",
+                        "skuId": "10133049145"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3054099122_MY-15190552314",
+                        "skuId": "15190552314"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3054099122_MY-15190552314",
+                "clickTrace": "query:dell;nid:3054099122;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3054099122_MY;price:600.00;client:desktop;supplier_id:300150489210;asc_category_id:57;item_id:3054099122;sku_id:15190552314;shop_id:1641763",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/6145442573352c817074ea52da73eedc.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3054099122",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-15-3552intel-celeron-n3060-16-ghz-4gb-ram-500gb-hdd-laptop-refurbished-notebook-i3054099122.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 15 3552\u00a0Intel Celeron N3060 1.6 GHz 4GB RAM 500GB HDD Laptop Refurbished Notebook",
+                "nid": "3054099122",
+                "price": "600.00",
+                "priceShow": "RM600.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A3054099122%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3054099122_MY%253Bprice%253A600.00%253Bclient%253Adesktop%253Bsupplier_id%253A300150489210%253Basc_category_id%253A57%253Bitem_id%253A3054099122%253Bsku_id%253A15190552314%253Bshop_id%253A1641763",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300150489210",
+                "sellerName": "TI Computer",
+                "showFeedBack": true,
+                "sku": "3054099122_MY",
+                "skuId": "15190552314",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/6145442573352c817074ea52da73eedc.jpg",
+                        "itemUrl": "/products/dell-inspiron-15-3552intel-celeron-n3060-16-ghz-4gb-ram-500gb-hdd-laptop-refurbished-notebook-i3054099122.html",
+                        "querystring": "",
+                        "sku": "3054099122_MY",
+                        "skuId": "15190552314"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3007091584_MY-14831203275",
+                        "skuId": "14831203275"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3007091584_MY-14831203275",
+                "clickTrace": "query:dell;nid:3007091584;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3007091584_MY;price:799.00;client:desktop;supplier_id:300159405271;asc_category_id:57;item_id:3007091584;sku_id:14831203275;shop_id:2147323",
+                "discount": "-11%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/abe64aa2431ee2d696723698e459ac42.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3007091584",
+                "itemUrl": "//www.lazada.com.my/products/refurbished-bajet-laptop-dell-latitude-e6230-i5-3rd-gen-4gb-ram-320gb-hdd-win-10-3-months-warranty-i3007091584.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "(Refurbished) Bajet Laptop Dell Latitude E6230 / i5-3rd Gen / 4GB Ram / 320GB HDD / Win 10 / 3 Months Warranty",
+                "nid": "3007091584",
+                "originalPrice": "899.00",
+                "originalPriceShow": "RM899.00",
+                "price": "799.00",
+                "priceShow": "RM799.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3007091584%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3007091584_MY%253Bprice%253A799.00%253Bclient%253Adesktop%253Bsupplier_id%253A300159405271%253Basc_category_id%253A57%253Bitem_id%253A3007091584%253Bsku_id%253A14831203275%253Bshop_id%253A2147323",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300159405271",
+                "sellerName": "Bajet Laptop",
+                "showFeedBack": true,
+                "sku": "3007091584_MY",
+                "skuId": "14831203275",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/abe64aa2431ee2d696723698e459ac42.jpg",
+                        "itemUrl": "/products/refurbished-bajet-laptop-dell-latitude-e6230-i5-3rd-gen-4gb-ram-320gb-hdd-win-10-3-months-warranty-i3007091584.html",
+                        "querystring": "",
+                        "sku": "3007091584_MY",
+                        "skuId": "14831203275"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3012903886_MY-14875291650",
+                        "skuId": "14875291650"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3012903886_MY-14875291650",
+                "clickTrace": "query:dell;nid:3012903886;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3012903886_MY;price:1499.00;client:desktop;supplier_id:300159585052;asc_category_id:57;item_id:3012903886;sku_id:14875291650;shop_id:2151107",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/17c94517c5ba74654cbb9a372220543e.png",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3012903886",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-7490core-i5-8250u-14fhd16gb-ram512gb-ssdwindow-11-profree-bag-and-mouse6-month-warranty-i3012903886.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL LATITUDE 7490/CORE I5-8250U /14\"FHD/16GB RAM/512GB SSD/WINDOW 11 PRO/FREE BAG AND MOUSE/6 MONTH WARRANTY",
+                "nid": "3012903886",
+                "price": "1499.00",
+                "priceShow": "RM1,499.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3012903886%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3012903886_MY%253Bprice%253A1499.00%253Bclient%253Adesktop%253Bsupplier_id%253A300159585052%253Basc_category_id%253A57%253Bitem_id%253A3012903886%253Bsku_id%253A14875291650%253Bshop_id%253A2151107",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300159585052",
+                "sellerName": "HOUSE_IT GADGET",
+                "showFeedBack": true,
+                "sku": "3012903886_MY",
+                "skuId": "14875291650",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/17c94517c5ba74654cbb9a372220543e.png",
+                        "itemUrl": "/products/dell-latitude-7490core-i5-8250u-14fhd16gb-ram512gb-ssdwindow-11-profree-bag-and-mouse6-month-warranty-i3012903886.html",
+                        "querystring": "",
+                        "sku": "3012903886_MY",
+                        "skuId": "14875291650"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3049512013_MY-15157298013",
+                        "skuId": "15157298013"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3049512013_MY-15157298013",
+                "clickTrace": "query:dell;nid:3049512013;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3049512013_MY;price:430.00;client:desktop;supplier_id:1000066254;asc_category_id:57;item_id:3049512013;sku_id:15157298013;shop_id:268512",
+                "discount": "-19%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/60a38822fc1ab804d0d6ea00e494e496.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3049512013",
+                "itemUrl": "//www.lazada.com.my/products/laptop-dell-inspiron-1545-156inch-intel-core2-duo-4-gb-ram-160-gb-hdd-used-i3049512013.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Laptop DELL Inspiron 1545 - 15.6inch - Intel\u00ae Core2\u2122 Duo \u00ae - 4 GB RAM - 160 GB HDD used",
+                "nid": "3049512013",
+                "originalPrice": "530.00",
+                "originalPriceShow": "RM530.00",
+                "price": "430.00",
+                "priceShow": "RM430.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3049512013%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3049512013_MY%253Bprice%253A430.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000066254%253Basc_category_id%253A57%253Bitem_id%253A3049512013%253Bsku_id%253A15157298013%253Bshop_id%253A268512",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000066254",
+                "sellerName": "TK OnlineShop",
+                "showFeedBack": true,
+                "sku": "3049512013_MY",
+                "skuId": "15157298013",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/60a38822fc1ab804d0d6ea00e494e496.jpg",
+                        "itemUrl": "/products/laptop-dell-inspiron-1545-156inch-intel-core2-duo-4-gb-ram-160-gb-hdd-used-i3049512013.html",
+                        "querystring": "",
+                        "sku": "3049512013_MY",
+                        "skuId": "15157298013"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3011388362_MY-14863550913",
+                        "skuId": "14863550913"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    58
+                ],
+                "cheapest_sku": "3011388362_MY-14863550913",
+                "clickTrace": "query:dell;nid:3011388362;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3011388362_MY;price:5678.00;client:desktop;supplier_id:1880;asc_category_id:58;item_id:3011388362;sku_id:14863550913;shop_id:4712",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/f0b851ee46865a422642747848581a33.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3011388362",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-16-plus-7610-80165-3050-16-3k-laptop-i7-11800h-16gb-ram-512gb-ssd-rtx3050-4gb-w11-hs-2-yrs-i3011388362.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 16 Plus 7610 80165-3050 16'' 3K Laptop ( I7-11800H, 16GB RAM, 512GB SSD, RTX3050 4GB, W11, HS, 2 Yrs )",
+                "nid": "3011388362",
+                "price": "5678.00",
+                "priceShow": "RM5,678.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3011388362%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3011388362_MY%253Bprice%253A5678.00%253Bclient%253Adesktop%253Bsupplier_id%253A1880%253Basc_category_id%253A58%253Bitem_id%253A3011388362%253Bsku_id%253A14863550913%253Bshop_id%253A4712",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1880",
+                "sellerName": "PA Online",
+                "showFeedBack": true,
+                "sku": "3011388362_MY",
+                "skuId": "14863550913",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-live-01.slatic.net/p/f0b851ee46865a422642747848581a33.jpg",
+                        "itemUrl": "/products/dell-inspiron-16-plus-7610-80165-3050-16-3k-laptop-i7-11800h-16gb-ram-512gb-ssd-rtx3050-4gb-w11-hs-2-yrs-i3011388362.html",
+                        "querystring": "",
+                        "sku": "3011388362_MY",
+                        "skuId": "14863550913"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3055180840_MY-15197916607",
+                        "skuId": "15197916607"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3055180840_MY-15197916607",
+                "clickTrace": "query:dell;nid:3055180840;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3055180840_MY;price:2819.00;client:desktop;supplier_id:1000011462;asc_category_id:57;item_id:3055180840;sku_id:15197916607;shop_id:214105",
+                "discount": "-22%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/d9afff6a93d901d6711d2d1449a25b1f.png",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3055180840",
+                "itemUrl": "//www.lazada.com.my/products/dell-laptop-inspiron-15-3511-3585sg-w11-156-fhd-carbon-black-i5-1135g7-8gb-512gb-ssd-intel-w11-hs-i3055180840.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Laptop Inspiron 15 3511 3585SG-W11 15.6\" FHD Carbon Black ( i5-1135G7, 8GB, 512GB SSD, Intel, W11, HS )",
+                "nid": "3055180840",
+                "originalPrice": "3599.00",
+                "originalPriceShow": "RM3,599.00",
+                "price": "2819.00",
+                "priceShow": "RM2,819.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3055180840%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3055180840_MY%253Bprice%253A2819.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000011462%253Basc_category_id%253A57%253Bitem_id%253A3055180840%253Bsku_id%253A15197916607%253Bshop_id%253A214105",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000011462",
+                "sellerName": "ismart online",
+                "showFeedBack": true,
+                "sku": "3055180840_MY",
+                "skuId": "15197916607",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/d9afff6a93d901d6711d2d1449a25b1f.png",
+                        "itemUrl": "/products/dell-laptop-inspiron-15-3511-3585sg-w11-156-fhd-carbon-black-i5-1135g7-8gb-512gb-ssd-intel-w11-hs-i3055180840.html",
+                        "querystring": "",
+                        "sku": "3055180840_MY",
+                        "skuId": "15197916607"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "408190331_MY-590648751",
+                        "skuId": "590648751"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6204
+                ],
+                "cheapest_sku": "408190331_MY-590648751",
+                "clickTrace": "query:dell;nid:408190331;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:408190331_MY;price:1099.00;client:desktop;supplier_id:11852;asc_category_id:6204;item_id:408190331;sku_id:590648751;shop_id:24860",
+                "discount": "-27%",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/e75900180f2c5237f714041563d1ba26.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "408190331",
+                "itemUrl": "//www.lazada.com.my/products/new-led-monitor-complete-desktop-pc-set-dell-optiplex-intel-core-i5-3rd-gen-4gb-ddr3-500gb-hdd-dvdrom-wide-led-monitor-refurbished-free-wifi-adapter-keyboard-mouse-i408190331.html",
+                "location": "Kedah",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "[ New Led Monitor ] Complete desktop pc set ~ Dell optiplex Intel Core i5 3rd gen ~ 4GB DDR3 ~ 500GB HDD ~ DVDROM + Wide Led monitor Refurbished free wifi adapter keyboard mouse",
+                "nid": "408190331",
+                "originalPrice": "1499.00",
+                "originalPriceShow": "RM1,499.00",
+                "price": "1099.00",
+                "priceShow": "RM1,099.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A408190331%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A408190331_MY%253Bprice%253A1099.00%253Bclient%253Adesktop%253Bsupplier_id%253A11852%253Basc_category_id%253A6204%253Bitem_id%253A408190331%253Bsku_id%253A590648751%253Bshop_id%253A24860",
+                "ratingScore": "4.428571428571429",
+                "restrictedAge": 0,
+                "review": "14",
+                "sellerId": "11852",
+                "sellerName": "INFOTECH",
+                "showFeedBack": true,
+                "sku": "408190331_MY",
+                "skuId": "590648751",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/e75900180f2c5237f714041563d1ba26.jpg",
+                        "itemUrl": "/products/new-led-monitor-complete-desktop-pc-set-dell-optiplex-intel-core-i5-3rd-gen-4gb-ddr3-500gb-hdd-dvdrom-wide-led-monitor-refurbished-free-wifi-adapter-keyboard-mouse-i408190331.html",
+                        "querystring": "",
+                        "sku": "408190331_MY",
+                        "skuId": "590648751"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2064809273_MY-9690307418",
+                        "skuId": "9690307418"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "2064809273_MY-9690307418",
+                "clickTrace": "query:dell;nid:2064809273;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2064809273_MY;price:770.00;client:desktop;supplier_id:100046228;asc_category_id:57;item_id:2064809273;sku_id:9690307418;shop_id:9903",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://filebroker-cdn.lazada.com.my/kf/S1c59457035c345248680f367dc61cc77C.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2064809273",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-e5430-i5-3rd-gen-4gb-ram-320gb-hdd-notebook-laptop-used-refurbished-i2064809273.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Latitude E5430 i5 3rd Gen 4Gb Ram 320Gb HDD Notebook Laptop Used Refurbished",
+                "nid": "2064809273",
+                "price": "770.00",
+                "priceShow": "RM770.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A2064809273%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2064809273_MY%253Bprice%253A770.00%253Bclient%253Adesktop%253Bsupplier_id%253A100046228%253Basc_category_id%253A57%253Bitem_id%253A2064809273%253Bsku_id%253A9690307418%253Bshop_id%253A9903",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "100046228",
+                "sellerName": "TCH Ventures",
+                "showFeedBack": true,
+                "sku": "2064809273_MY",
+                "skuId": "9690307418",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://filebroker-cdn.lazada.com.my/kf/S1c59457035c345248680f367dc61cc77C.jpg",
+                        "itemUrl": "/products/dell-latitude-e5430-i5-3rd-gen-4gb-ram-320gb-hdd-notebook-laptop-used-refurbished-i2064809273.html",
+                        "querystring": "",
+                        "sku": "2064809273_MY",
+                        "skuId": "9690307418"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2404250499_MY-10369338973",
+                        "skuId": "10369338973"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "2404250499_MY-10369338973",
+                "clickTrace": "query:dell;nid:2404250499;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2404250499_MY;price:2499.00;client:desktop;supplier_id:300153663243;asc_category_id:57;item_id:2404250499;sku_id:10369338973;shop_id:1824202",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/4a5590e04334e0bdb2df0e6cc51163d6.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2404250499",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-3410-core-i5-i7-14-inch-10th-gen-wifi-6-ax-3-business-office-study-laptop-years-warranty-dell-on-site-i2404250499.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL Latitude 3410 Core i5 i7 14 inch 10th Gen WiFi 6 AX 3 BUSINESS OFFICE STUDY LAPTOP YEARS WARRANTY DELL ON-SITE",
+                "nid": "2404250499",
+                "price": "2499.00",
+                "priceShow": "RM2,499.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A2404250499%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2404250499_MY%253Bprice%253A2499.00%253Bclient%253Adesktop%253Bsupplier_id%253A300153663243%253Basc_category_id%253A57%253Bitem_id%253A2404250499%253Bsku_id%253A10369338973%253Bshop_id%253A1824202",
+                "ratingScore": "4.5",
+                "restrictedAge": 0,
+                "review": "2",
+                "sellerId": "300153663243",
+                "sellerName": "The Gadget Shop Malaysia",
+                "showFeedBack": true,
+                "sku": "2404250499_MY",
+                "skuId": "10369338973",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/4a5590e04334e0bdb2df0e6cc51163d6.jpg",
+                        "itemUrl": "/products/dell-latitude-3410-core-i5-i7-14-inch-10th-gen-wifi-6-ax-3-business-office-study-laptop-years-warranty-dell-on-site-i2404250499.html",
+                        "querystring": "",
+                        "sku": "2404250499_MY",
+                        "skuId": "10369338973"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3011385622_MY-14863962602",
+                        "skuId": "14863962602"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3011385622_MY-14863962602",
+                "clickTrace": "query:dell;nid:3011385622;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3011385622_MY;price:3799.00;client:desktop;supplier_id:587;asc_category_id:57;item_id:3011385622;sku_id:14863962602;shop_id:1694",
+                "discount": "-24%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/b04094006381dbc7e2637242d182afd9.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3011385622",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-14-5410-laptop-i7-11390h-50ghz512gb-1tb-ssd8gb-16gb14-fhdw11-i3011385622.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 14 5410 Laptop (i7-11390H 5.0Ghz,512GB / 1TB SSD,8GB / 16GB,14\" FHD,W11)",
+                "nid": "3011385622",
+                "originalPrice": "4999.00",
+                "originalPriceShow": "RM4,999.00",
+                "price": "3799.00",
+                "priceShow": "RM3,799.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3011385622%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3011385622_MY%253Bprice%253A3799.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A57%253Bitem_id%253A3011385622%253Bsku_id%253A14863962602%253Bshop_id%253A1694",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3011385622_MY",
+                "skuId": "14863962602",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/b04094006381dbc7e2637242d182afd9.jpg.jpg",
+                        "itemUrl": "/products/dell-inspiron-14-5410-laptop-i7-11390h-50ghz512gb-1tb-ssd8gb-16gb14-fhdw11-i3011385622.html",
+                        "querystring": "",
+                        "sku": "3011385622_MY",
+                        "skuId": "14863962602"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/ac278b7c6aa83be9534c91481a6632a4.jpg.jpg",
+                        "itemUrl": "/products/dell-inspiron-14-5410-laptop-i7-11390h-50ghz512gb-1tb-ssd8gb-16gb14-fhdw11-i3011385622.html",
+                        "querystring": "",
+                        "sku": "3011385622_MY",
+                        "skuId": "14863962604"
+                    },
+                    {
+                        "image": "https://my-live-01.slatic.net/p/10d60b00d07d727854a913f1441354c6.jpg.jpg",
+                        "itemUrl": "/products/dell-inspiron-14-5410-laptop-i7-11390h-50ghz512gb-1tb-ssd8gb-16gb14-fhdw11-i3011385622.html",
+                        "querystring": "",
+                        "sku": "3011385622_MY",
+                        "skuId": "14863962603"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3046889458_MY-15142923660",
+                        "skuId": "15142923660"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3046889458_MY-15142923660",
+                "clickTrace": "query:dell;nid:3046889458;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3046889458_MY;price:899.00;client:desktop;supplier_id:35950;asc_category_id:57;item_id:3046889458;sku_id:15142923660;shop_id:4828",
+                "icons": [],
+                "image": "https://my-test-11.slatic.net/p/555f896fcc8f7cd1f9f88502ed5a8cac.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3046889458",
+                "itemUrl": "//www.lazada.com.my/products/refurbished-dell-latitude-e5290-laptop-intel-core-i5-8th-gen8gb-ram256ssdwin10-prowebcam-wifi-i3046889458.html",
+                "location": "Johor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Refurbished Dell Latitude E5290 Laptop Intel core i5 8th gen/8GB RAM/256SSD/Win10 Pro/Webcam & WiFi",
+                "nid": "3046889458",
+                "price": "899.00",
+                "priceShow": "RM899.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A3046889458%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3046889458_MY%253Bprice%253A899.00%253Bclient%253Adesktop%253Bsupplier_id%253A35950%253Basc_category_id%253A57%253Bitem_id%253A3046889458%253Bsku_id%253A15142923660%253Bshop_id%253A4828",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "35950",
+                "sellerName": "CH Computer Store",
+                "showFeedBack": true,
+                "sku": "3046889458_MY",
+                "skuId": "15142923660",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/555f896fcc8f7cd1f9f88502ed5a8cac.jpg",
+                        "itemUrl": "/products/refurbished-dell-latitude-e5290-laptop-intel-core-i5-8th-gen8gb-ram256ssdwin10-prowebcam-wifi-i3046889458.html",
+                        "querystring": "",
+                        "sku": "3046889458_MY",
+                        "skuId": "15142923660"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3040546506_MY-15100526334",
+                        "skuId": "15100526334"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3040546506_MY-15100526334",
+                "clickTrace": "query:dell;nid:3040546506;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3040546506_MY;price:500.00;client:desktop;supplier_id:1000066254;asc_category_id:57;item_id:3040546506;sku_id:15100526334;shop_id:268512",
+                "discount": "-29%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/e5ca1efb445178c0d577ed2ffea70435.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3040546506",
+                "itemUrl": "//www.lazada.com.my/products/laptop-dell-latitude-e5520-156inch-led-core-i5-2rd-gen-ram-4-gb-ssd-240gb-used-i3040546506.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Laptop DELL Latitude E5520 - 15.6inch LED - Core i5 2rd Gen -Ram 4 GB - SSD 240GB used",
+                "nid": "3040546506",
+                "originalPrice": "700.00",
+                "originalPriceShow": "RM700.00",
+                "price": "500.00",
+                "priceShow": "RM500.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3040546506%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3040546506_MY%253Bprice%253A500.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000066254%253Basc_category_id%253A57%253Bitem_id%253A3040546506%253Bsku_id%253A15100526334%253Bshop_id%253A268512",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000066254",
+                "sellerName": "TK OnlineShop",
+                "showFeedBack": true,
+                "sku": "3040546506_MY",
+                "skuId": "15100526334",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/e5ca1efb445178c0d577ed2ffea70435.jpg",
+                        "itemUrl": "/products/laptop-dell-latitude-e5520-156inch-led-core-i5-2rd-gen-ram-4-gb-ssd-240gb-used-i3040546506.html",
+                        "querystring": "",
+                        "sku": "3040546506_MY",
+                        "skuId": "15100526334"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3019978440_MY-14922054484",
+                        "skuId": "14922054484"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "3019978440_MY-14922054484",
+                "clickTrace": "query:dell;nid:3019978440;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3019978440_MY;price:1300.00;client:desktop;supplier_id:300150489210;asc_category_id:6208;item_id:3019978440;sku_id:14922054484;shop_id:1641763",
+                "icons": [
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/6e02151a4f696137ff0f17697af97218.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3019978440",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-5050-mt-intel-core-i7-7700-up-to-32gb-ram-960gb-ssd-desktop-refurbished-pc-i3019978440.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Optiplex 5050 MT Intel Core i7-7700 up to 32GB RAM 960GB SSD Desktop Refurbished PC\u00a0",
+                "nid": "3019978440",
+                "price": "1300.00",
+                "priceShow": "RM1,300.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3019978440%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3019978440_MY%253Bprice%253A1300.00%253Bclient%253Adesktop%253Bsupplier_id%253A300150489210%253Basc_category_id%253A6208%253Bitem_id%253A3019978440%253Bsku_id%253A14922054484%253Bshop_id%253A1641763",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300150489210",
+                "sellerName": "TI Computer",
+                "showFeedBack": true,
+                "sku": "3019978440_MY",
+                "skuId": "14922054484",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/6e02151a4f696137ff0f17697af97218.jpg",
+                        "itemUrl": "/products/dell-optiplex-5050-mt-intel-core-i7-7700-up-to-32gb-ram-960gb-ssd-desktop-refurbished-pc-i3019978440.html",
+                        "querystring": "",
+                        "sku": "3019978440_MY",
+                        "skuId": "14922054484"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3009867353_MY-14851911311",
+                        "skuId": "14851911311"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3009867353_MY-14851911311",
+                "clickTrace": "query:dell;nid:3009867353;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3009867353_MY;price:10289.00;client:desktop;supplier_id:587;asc_category_id:57;item_id:3009867353;sku_id:14851911311;shop_id:1694",
+                "discount": "-2%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/6eeb66320e35e6054690da21583005fa.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3009867353",
+                "itemUrl": "//www.lazada.com.my/products/dell-xps-15-9520-laptop-i7-12700h-47ghz1tb-ssd16gbrtx3050ti-4gb156uhd-touchw11hs21-i3009867353.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell XPS 15 (9520) Laptop (i7-12700H 4.7Ghz,1TB SSD,16GB,RTX3050Ti-4GB,15.6\"UHD+ Touch,W11,HS21)",
+                "nid": "3009867353",
+                "originalPrice": "10499.00",
+                "originalPriceShow": "RM10,499.00",
+                "price": "10289.00",
+                "priceShow": "RM10,289.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3009867353%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3009867353_MY%253Bprice%253A10289.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A57%253Bitem_id%253A3009867353%253Bsku_id%253A14851911311%253Bshop_id%253A1694",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3009867353_MY",
+                "skuId": "14851911311",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/6eeb66320e35e6054690da21583005fa.jpg.jpg",
+                        "itemUrl": "/products/dell-xps-15-9520-laptop-i7-12700h-47ghz1tb-ssd16gbrtx3050ti-4gb156uhd-touchw11hs21-i3009867353.html",
+                        "querystring": "",
+                        "sku": "3009867353_MY",
+                        "skuId": "14851911311"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "2868339300_MY-13838203344",
+                        "skuId": "13838203344"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "2868339300_MY-13838203344",
+                "clickTrace": "query:dell;nid:2868339300;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:2868339300_MY;price:390.00;client:desktop;supplier_id:300150489210;asc_category_id:6208;item_id:2868339300;sku_id:13838203344;shop_id:1641763",
+                "icons": [],
+                "image": "https://sg-test-11.slatic.net/p/d598f9c80e90d3131b975d7abd32bf41.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "2868339300",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-3010-dt-intel-core-i3-3240-34ghz-4gb-ram-500gb-hdd-desktop-refurbished-pc-i2868339300.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Optiplex 3010 DT Intel Core i3-3240 3.4Ghz 4GB RAM 500GB HDD Desktop Refurbished PC",
+                "nid": "2868339300",
+                "price": "390.00",
+                "priceShow": "RM390.00",
+                "promotionId": "null",
+                "querystring": "search=1&clickTrackInfo=query%253Adell%253Bnid%253A2868339300%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A2868339300_MY%253Bprice%253A390.00%253Bclient%253Adesktop%253Bsupplier_id%253A300150489210%253Basc_category_id%253A6208%253Bitem_id%253A2868339300%253Bsku_id%253A13838203344%253Bshop_id%253A1641763",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300150489210",
+                "sellerName": "TI Computer",
+                "showFeedBack": true,
+                "sku": "2868339300_MY",
+                "skuId": "13838203344",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/d598f9c80e90d3131b975d7abd32bf41.jpg",
+                        "itemUrl": "/products/dell-optiplex-3010-dt-intel-core-i3-3240-34ghz-4gb-ram-500gb-hdd-desktop-refurbished-pc-i2868339300.html",
+                        "querystring": "",
+                        "sku": "2868339300_MY",
+                        "skuId": "13838203344"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3011466177_MY-14864256214",
+                        "skuId": "14864256214"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3011466177_MY-14864256214",
+                "clickTrace": "query:dell;nid:3011466177;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3011466177_MY;price:3399.00;client:desktop;supplier_id:587;asc_category_id:57;item_id:3011466177;sku_id:14864256214;shop_id:1694",
+                "discount": "-24%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "Zrq2Uv",
+                        "coins": false,
+                        "domClass": "Zrq2Uv",
+                        "font-size": 0,
+                        "group": "3",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/843a8f97d709d4363e36ab0a1a3fa745.jpg.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3011466177",
+                "itemUrl": "//www.lazada.com.my/products/dell-inspiron-14-5415-multimedia-laptop-ryzen-7-5700u-43ghz512gb-ssd16gb14fhdw11-silver-i3011466177.html",
+                "location": "Penang",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Inspiron 14 (5415) Multimedia Laptop (Ryzen 7 5700U 4.3Ghz,512GB SSD,16GB,14\"FHD,W11) - Silver",
+                "nid": "3011466177",
+                "originalPrice": "4499.00",
+                "originalPriceShow": "RM4,499.00",
+                "price": "3399.00",
+                "priceShow": "RM3,399.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3011466177%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3011466177_MY%253Bprice%253A3399.00%253Bclient%253Adesktop%253Bsupplier_id%253A587%253Basc_category_id%253A57%253Bitem_id%253A3011466177%253Bsku_id%253A14864256214%253Bshop_id%253A1694",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "587",
+                "sellerName": "ECT Online",
+                "showFeedBack": true,
+                "sku": "3011466177_MY",
+                "skuId": "14864256214",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-live-01.slatic.net/p/843a8f97d709d4363e36ab0a1a3fa745.jpg.jpg",
+                        "itemUrl": "/products/dell-inspiron-14-5415-multimedia-laptop-ryzen-7-5700u-43ghz512gb-ssd16gb14fhdw11-silver-i3011466177.html",
+                        "querystring": "",
+                        "sku": "3011466177_MY",
+                        "skuId": "14864256214"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3030677830_MY-15023082839",
+                        "skuId": "15023082839"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    61,
+                    6208
+                ],
+                "cheapest_sku": "3030677830_MY-15023082839",
+                "clickTrace": "query:dell;nid:3030677830;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3030677830_MY;price:600.00;client:desktop;supplier_id:300164982289;asc_category_id:6208;item_id:3030677830;sku_id:15023082839;shop_id:2250064",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://my-test-11.slatic.net/p/3eb97ae0c2d6573ba055f5add78f9445.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3030677830",
+                "itemUrl": "//www.lazada.com.my/products/dell-optiplex-7010-sff-intel-core-i5-3rd-8gb-ram-250gb-ssd-used-desktop-refurbished-pc-i3030677830.html",
+                "location": "Selangor",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "Dell Optiplex 7010 SFF Intel Core I5 3rd 8GB RAM 250GB SSD Used Desktop Refurbished PC",
+                "nid": "3030677830",
+                "price": "600.00",
+                "priceShow": "RM600.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3030677830%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3030677830_MY%253Bprice%253A600.00%253Bclient%253Adesktop%253Bsupplier_id%253A300164982289%253Basc_category_id%253A6208%253Bitem_id%253A3030677830%253Bsku_id%253A15023082839%253Bshop_id%253A2250064",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "300164982289",
+                "sellerName": "IU COMPUTER",
+                "showFeedBack": true,
+                "sku": "3030677830_MY",
+                "skuId": "15023082839",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://my-test-11.slatic.net/p/3eb97ae0c2d6573ba055f5add78f9445.jpg",
+                        "itemUrl": "/products/dell-optiplex-7010-sff-intel-core-i5-3rd-8gb-ram-250gb-ssd-used-desktop-refurbished-pc-i3030677830.html",
+                        "querystring": "",
+                        "sku": "3030677830_MY",
+                        "skuId": "15023082839"
+                    }
+                ]
+            },
+            {
+                "addToCart": false,
+                "addToCartSkus": [
+                    {
+                        "count": 0,
+                        "sku": "3028436374_MY-15005022745",
+                        "skuId": "15005022745"
+                    }
+                ],
+                "brandId": "746",
+                "brandName": "Dell",
+                "categories": [
+                    54,
+                    55,
+                    57
+                ],
+                "cheapest_sku": "3028436374_MY-15005022745",
+                "clickTrace": "query:dell;nid:3028436374;src:LazadaMainSrp;rn:534c78771888fd7bdb72d9ecb17d0714;region:my;sku:3028436374_MY;price:1599.00;client:desktop;supplier_id:1000046792;asc_category_id:57;item_id:3028436374;sku_id:15005022745;shop_id:249221",
+                "discount": "-33%",
+                "icons": [
+                    {
+                        "alias": "VvaUje",
+                        "coins": false,
+                        "domClass": "VvaUje",
+                        "font-size": 0,
+                        "group": "6",
+                        "order": 0,
+                        "showType": "0",
+                        "type": "img"
+                    },
+                    {
+                        "alias": "freeShipping",
+                        "coins": false,
+                        "domClass": "freeShipping",
+                        "font-size": 0,
+                        "group": "2",
+                        "order": 0,
+                        "showType": "0",
+                        "style": {
+                            "height": 28,
+                            "width": 45
+                        },
+                        "type": "img",
+                        "url": "https://gw.alicdn.com/tfs/TB1QTkMXG67gK0jSZFHXXa9jVXa-45-28.png"
+                    }
+                ],
+                "image": "https://sg-test-11.slatic.net/p/4065429e00d6c3b7b50f7a8946b47aee.jpg",
+                "inStock": true,
+                "installment": "",
+                "isAD": 0,
+                "itemId": "3028436374",
+                "itemUrl": "//www.lazada.com.my/products/dell-latitude-5480-core-i5-7th-gen-8gb-ram-ddr4-512gb-ssd-140-full-hd-screen-free-bag-wireless-mouse-i3028436374.html",
+                "location": "Wp Kuala Lumpur",
+                "longImageDisplayable": false,
+                "mainSellerId": "",
+                "name": "DELL LATITUDE 5480 (CORE I5-7TH GEN, 8GB RAM DDR4, 512GB SSD, 14.0\" FULL HD SCREEN) + FREE BAG + WIRELESS MOUSE",
+                "nid": "3028436374",
+                "originalPrice": "2400.00",
+                "originalPriceShow": "RM2,400.00",
+                "price": "1599.00",
+                "priceShow": "RM1,599.00",
+                "promotionId": "null",
+                "querystring": "search=1&freeshipping=1&clickTrackInfo=query%253Adell%253Bnid%253A3028436374%253Bsrc%253ALazadaMainSrp%253Brn%253A534c78771888fd7bdb72d9ecb17d0714%253Bregion%253Amy%253Bsku%253A3028436374_MY%253Bprice%253A1599.00%253Bclient%253Adesktop%253Bsupplier_id%253A1000046792%253Basc_category_id%253A57%253Bitem_id%253A3028436374%253Bsku_id%253A15005022745%253Bshop_id%253A249221",
+                "ratingScore": "0",
+                "restrictedAge": 0,
+                "review": "",
+                "sellerId": "1000046792",
+                "sellerName": "LAPTOP WHOLESALER",
+                "showFeedBack": true,
+                "sku": "3028436374_MY",
+                "skuId": "15005022745",
+                "skus": [],
+                "tItemType": "nt_product",
+                "thumbs": [
+                    {
+                        "image": "https://sg-test-11.slatic.net/p/4065429e00d6c3b7b50f7a8946b47aee.jpg",
+                        "itemUrl": "/products/dell-latitude-5480-core-i5-7th-gen-8gb-ram-ddr4-512gb-ssd-140-full-hd-screen-free-bag-wireless-mouse-i3028436374.html",
+                        "querystring": "",
+                        "sku": "3028436374_MY",
+                        "skuId": "15005022745"
+                    }
+                ]
+            }
+        ],
+        "resultTips": {
+            "brandLink": "",
+            "keywords": [
+                {
+                    "text": "dell"
+                }
+            ],
+            "tItemType": "nt_resulttips",
+            "tips": "92376 items found for \"{$0}\""
+        },
+        "sortBar": {
+            "filter": "Filter",
+            "hasFilter": false,
+            "hiddenLayoutBtn": false,
+            "module": {
+                "style": {
+                    "freeshipping": {
+                        "direction": "right",
+                        "height": "23",
+                        "marginBottom": "2",
+                        "marginRight": "5",
+                        "type": "img",
+                        "width": "33"
+                    },
+                    "guarantee": {
+                        "direction": "right",
+                        "height": "24",
+                        "marginBottom": "5",
+                        "marginRight": "5",
+                        "type": "img",
+                        "width": "34"
+                    },
+                    "sale": {
+                        "color": "0x666666",
+                        "direction": "left",
+                        "fontSize": "15",
+                        "marginLeft": "16",
+                        "selectColor": "0x1B5EE2",
+                        "type": "text"
+                    }
+                },
+                "widgets": {}
+            },
+            "showFilterBtn": true,
+            "sortItems": [
+                {
+                    "isActive": "true",
+                    "key": "sort",
+                    "name": "Popularity",
+                    "tabName": "",
+                    "tip": "Best Match",
+                    "value": "popularity"
+                },
+                {
+                    "key": "sort",
+                    "name": "Price-ASC",
+                    "tabName": "",
+                    "tip": "Price low to high",
+                    "value": "priceasc"
+                },
+                {
+                    "key": "sort",
+                    "name": "Price-DESC",
+                    "tabName": "",
+                    "tip": "Price high to low",
+                    "value": "pricedesc"
+                }
+            ],
+            "style": "wf",
+            "tItemType": "nt_sortbar"
+        }
+    }
+}
