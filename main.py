@@ -3,7 +3,7 @@ import time
 import math
 import random
 
-class object():
+class Sphere():
     def __init__(self, x, y, xv, yv, mass, color, elasticity):
         self.x = x
         self.y = y
@@ -17,6 +17,9 @@ class object():
     @property
     def momentum(self):
         return math.sqrt((self.xv) ** 2 + (self.yv) ** 2) * self.mass
+    @property
+    def resultant_vector(self):
+        return math.sqrt((self.xv) ** 2 + (self.yv) ** 2)
     def update(self):
         self.x += self.xv
         if self.x + self.rad > Status.screen_size[0]:
@@ -90,19 +93,17 @@ class object():
     def draw(self, window):
         pygame.draw.circle(window, self.color, (self.x, self.y), self.rad)
 
-def earth(self, scale):
-    if self.yv >= 0 and self.y > Status.screen_size[1] - scale - self.rad:
-        if self.xv > 0:
-            self.xv -= 0.001
-        elif self.xv < 0:
-            self.xv += 0.001
-        self.yv = 0
-    elif self.yv > 0:
-        self.yv -= scale * 0.01
-        self.yv += scale * 0.9
-    else:
-        self.yv += scale * 0.1
-        self.yv += scale
+def friction(self:Sphere, scale:float):
+    scale %= 1
+    self.xv *= (1 - scale)
+    self.yv *= (1 - scale)
+
+def earth(self:Sphere, scale):
+    if self.y > Status.screen_size[1] - (self.rad + 5):
+        friction(self, 0.05)
+        return
+    self.yv += scale
+    friction(self, 0.01)
 
 def blackhole(target, hole_x, hole_y, scale):
     x_dis = target.x - hole_x
@@ -114,14 +115,64 @@ def blackhole(target, hole_x, hole_y, scale):
     target.xv -= x_dis / dis * scale
     target.yv -= y_dis / dis * scale
 
+def draw_arrow(window, color, p1, p2, width = 5, scale = 1, head = 5):
+    v1 = [p2[0] - p1[0], p2[1] - p1[1]]
+    hypo = math.sqrt(v1[0] ** 2 + v1[1] ** 2)
+    if hypo == 0:
+        return
+    v2 = [v1[1], -v1[0]]
+    uv2 = [v2[0] / hypo, v2[1] / hypo]
+    uv1 = [v1[0] / hypo, v1[1] / hypo]
+    body = hypo * scale - head
+    if body < 0:
+        return
+    vertices = [
+        (p1[0] + width * uv2[0], p1[1] + width * uv2[1]),
+        (p1[0] + body * uv1[0] + width * uv2[0], p1[1] + body * uv1[1] + width * uv2[1]),
+        (p1[0] + body * uv1[0] + 2 * width * uv2[0], p1[1] + body * uv1[1] + 2 * width * uv2[1]),
+        (p1[0] + scale * v1[0], p1[1] + scale * v1[1]),
+        (p1[0] + body * uv1[0] - 2 * width * uv2[0], p1[1] + body * uv1[1] - 2 * width * uv2[1]),
+        (p1[0] + body * uv1[0] - width * uv2[0], p1[1] + body * uv1[1] - width * uv2[1]),
+        (p1[0] - width * uv2[0], p1[1] - width * uv2[1]),
+    ]
+    pygame.draw.polygon(window, color, vertices)
+
+def print_trail(target:Sphere):
+    draw_arrow(Status.window,
+               target.color,
+               (target.x, target.y),
+               (target.x + target.xv, target.y + target.yv),
+               target.rad / 2,
+               0,
+               -7.3
+    )
+
+def print_vector(target:Sphere, width = 0.5, scale = 10, head = 5):
+    draw_arrow(Status.window, Color.BLUE,
+               (target.x, target.y),
+               (target.x + target.xv, target.y),
+               width, scale, head)
+    draw_arrow(Status.window, Color.RED,
+               (target.x, target.y),
+               (target.x, target.y + target.yv),
+               width, scale, head)
+    draw_arrow(Status.window, Color.LIME,
+               (target.x, target.y),
+               (target.x + target.xv, target.y + target.yv),
+               width, scale, head)
+
 class Color:
     WHITE = (255, 255, 255)
     BLACK = (0,0,0)
     YELLOW = (255,255,0)
     RED = (255, 0, 0)
+    CYAN = (0, 255, 255)
+    LIME = (0, 255, 0)
+    BLUE = (0, 0, 255)
 
 class Status:
     screen_size = (1200, 700)
+    window = pygame.display.set_mode(screen_size)
     mid = (screen_size[0] / 2, screen_size[1] / 2)
     run = True
 
@@ -129,9 +180,9 @@ def random_balls(count = 10):
     balls = []
     i = 0
     while (i < count):
-        mass = random.randint(100, 200)
+        mass = random.randint(100, 500)
 
-        balls.append(object(
+        balls.append(Sphere(
             random.randint(0, Status.screen_size[0]),
             random.randint(0, Status.screen_size[1]),
             random.randint(-1, 1),
@@ -150,16 +201,16 @@ def run():
     directions = {82:(0, -scale),81:(0, scale),80:(-scale, 0),79:(scale, 0)}
     balls = []
 
-    #balls.append(object(300,100,0,0,10000,Color.YELLOW,1))
-    #balls.append(object(100,140,10,0,100,Color.RED,1))
+    balls.append(Sphere(300, 300, 0, 0, 10000, Color.YELLOW, 1))
+    # balls.append(Sphere(100, 300, 10, 0, 100, Color.RED, 1))
     #balls.append(object(500, 140, -10, 0, 100, Color.RED, 1))
     #balls.append(object(200, 100, 10, 0, 100, Color.RED, 1))
     #balls.append(object(600, 100, 10, 0, 100, Color.RED, 1))
 
     pygame.init()
-    window = pygame.display.set_mode(Status.screen_size)
     pygame.display.set_caption("the best game ever")
     clock = pygame.time.Clock()
+    player1 = 0
 
     while Status.run:
         clock.tick(60)
@@ -167,7 +218,7 @@ def run():
         if balls.__len__() <= 1:
             time.sleep(1)
             #player1 = object(100, 140, 0, 0, 50000, Color.RED, 1)
-            balls = random_balls(50)
+            balls = random_balls(2)
             #balls.append(player1)
 
         for event in pygame.event.get():
@@ -186,18 +237,18 @@ def run():
                     ball.yv += directions[key][1] / ball.mass
                     ball.xv += directions[key][0] / ball.mass
 
-        window.fill(Color.BLACK)
+        Status.window.fill(Color.WHITE)
         balls.sort(key=lambda x: x.x)
         for idx, ball in enumerate(balls):
-            if Status.mid[0] - 10 <= ball.x <= Status.mid[0] + 10:
-                if math.sqrt((ball.x - Status.mid[0]) ** 2 + (ball.y - Status.mid[1]) ** 2) < ball.rad + 10:
-                    if ball is player1:
-                        print(f"you are number {balls.__len__()}")
-                        balls = [];
-                    else:
-                        balls.pop(idx)
-                        print(balls.__len__())
-                    continue
+            # if Status.mid[0] - 10 <= ball.x <= Status.mid[0] + 10:
+            #     if math.sqrt((ball.x - Status.mid[0]) ** 2 + (ball.y - Status.mid[1]) ** 2) < ball.rad + 10:
+            #         if ball is player1:
+            #             print(f"you are number {balls.__len__()}")
+            #             balls = [];
+            #         else:
+            #             balls.pop(idx)
+            #             print(balls.__len__())
+            #         continue
             for other in balls[idx + 1:]:
                 rad = ball.rad + other.rad
                 if other.x - ball.x < rad:
@@ -206,10 +257,11 @@ def run():
                 else:
                     break
             ball.update()
-            #earth(ball, 0.5)
-            blackhole(ball, Status.mid[0], Status.mid[1], 100)
-            ball.draw(window)
-        pygame.draw.circle(window, (255, 255, 255), Status.mid, 10)
+            earth(ball, 0.981)
+            #blackhole(ball, Status.mid[0], Status.mid[1], 100)
+            ball.draw(Status.window)
+            print_vector(ball, scale=ball.mass / 100)
+        # pygame.draw.circle(Status.window, (255, 255, 255), Status.mid, 10)
         pygame.display.update()
     pygame.quit()
 
